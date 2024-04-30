@@ -1,21 +1,15 @@
-[0] Config.pm:304> INFO - This is Biber 2.14
-[0] Config.pm:307> INFO - Logfile is 'Praxisarbeit_Master.blg'
-[116] biber-MSWIN64:322> INFO - === 
-[153] Biber.pm:415> INFO - Reading 'Praxisarbeit_Master.bcf'
-[317] Biber.pm:943> INFO - Found 9 citekeys in bib section 0
-[356] Biber.pm:4256> INFO - Processing section 0
-[357] Utils.pm:75> INFO - Globbing data source 'text/bibliography.bib'
-[374] Utils.pm:91> INFO - Globbed data source 'text/bibliography.bib' to text/bibliography.bib
-[391] Biber.pm:4455> INFO - Looking for bibtex format file 'text/bibliography.bib' for section 0
-[395] bibtex.pm:1653> INFO - LaTeX decoding ...
-[419] bibtex.pm:1471> INFO - Found BibTeX data source 'text/bibliography.bib'
-[466] Utils.pm:304> WARN - year field 'o.J.' in entry 'OMG2018' is not an integer - this will probably not sort properly.
-[469] Utils.pm:304> WARN - year field 'o.J.' in entry 'schlechteQuelle' is not an integer - this will probably not sort properly.
-[472] Utils.pm:304> WARN - year field 'o.J.' in entry 'schlechteQuelle2' is not an integer - this will probably not sort properly.
-[536] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[536] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[536] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
-[537] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
-[554] bbl.pm:652> INFO - Writing 'Praxisarbeit_Master.bbl' with encoding 'UTF-8'
-[563] bbl.pm:755> INFO - Output to Praxisarbeit_Master.bbl
-[563] Biber.pm:128> INFO - WARNINGS: 3
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'Praxisarbeit_Master.blg'
+[131] biber-MSWIN64:340> INFO - === 
+[170] Biber.pm:420> INFO - Reading 'Praxisarbeit_Master.bcf'
+[275] Biber.pm:994> INFO - Found 9 citekeys in bib section 0
+[291] Biber.pm:4463> INFO - Processing section 0
+[305] Biber.pm:4654> INFO - Looking for bibtex file 'text/bibliography.bib' for section 0
+[359] bibtex.pm:1713> INFO - LaTeX decoding ...
+[373] bibtex.pm:1519> INFO - Found BibTeX data source 'text/bibliography.bib'
+[460] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[460] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[460] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
+[460] Biber.pm:4289> INFO - No sort tailoring available for locale 'de-DE'
+[473] bbl.pm:676> INFO - Writing 'Praxisarbeit_Master.bbl' with encoding 'UTF-8'
+[478] bbl.pm:779> INFO - Output to Praxisarbeit_Master.bbl
