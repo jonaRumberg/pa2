@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.4.30)  30 APR 2024 16:05
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.4.30)  30 APR 2024 16:21
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Praxisarbeit_Master.tex
@@ -169,12 +169,12 @@ File: csquotes.cfg
 man.ldf
 File: gloss-german.ldf polyglossia: module for German
 Module polyglossia Info: Language data for german
-(polyglossia)            hyphenation	
-(polyglossia)            patterns	hyph-de-1901.pat.txt
 (polyglossia)            loader	loadhyph-de-1901.tex
-(polyglossia)            lefthyphenmin	2
 (polyglossia)            synonyms	
-(polyglossia)            righthyphenmin	2 on input line 16
+(polyglossia)            patterns	hyph-de-1901.pat.txt
+(polyglossia)            righthyphenmin	2
+(polyglossia)            lefthyphenmin	2
+(polyglossia)            hyphenation	 on input line 16
 Module polyglossia Info: Language german was not yet loaded; created with id 2 o
 n input line 16
 Package polyglossia Info: Option: German, spelling=new.
@@ -785,12 +785,12 @@ Package biblatex Info: ... file 'german.lbx' found.
 bx
 File: german.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 Module polyglossia Info: Language data for ngerman
-(polyglossia)            hyphenation	
-(polyglossia)            patterns	hyph-de-1996.pat.txt
 (polyglossia)            loader	loadhyph-de-1996.tex
-(polyglossia)            lefthyphenmin	2
 (polyglossia)            synonyms	
-(polyglossia)            righthyphenmin	2 on input line 581
+(polyglossia)            patterns	hyph-de-1996.pat.txt
+(polyglossia)            righthyphenmin	2
+(polyglossia)            lefthyphenmin	2
+(polyglossia)            hyphenation	 on input line 581
 Module polyglossia Info: Language ngerman was not yet loaded; created with id 4 
 on input line 581
 )
@@ -936,7 +936,7 @@ Here is how much of LuaTeX's memory you used:
  481 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 63 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:352,3:189,4:32,5:182,6:56,7:2492,8:1,9:256,10:9,11:276
+   avail lists: 1:1,2:352,3:188,4:32,5:210,6:56,7:2906,8:1,9:256,10:9,11:336
  38292 multiletter control sequences out of 65536+600000
  40 fonts using 2903751 bytes
  84i,11n,92p,691b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -945,7 +945,7 @@ Here is how much of LuaTeX's memory you used:
 /lmroman10-regular.otf></users/i569398/appdata/local/programs/miktex/fonts/opent
 ype/public/lm/lmroman12-regular.otf></users/i569398/appdata/local/programs/mikte
 x/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on Praxisarbeit_Master.pdf (16 pages, 238912 bytes).
+Output written on Praxisarbeit_Master.pdf (16 pages, 239153 bytes).
 
 PDF statistics: 117 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
