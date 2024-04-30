@@ -7,13 +7,14 @@
 \contentsline {section}{Abbildungsverzeichnis}{VII}{}%
 \contentsline {section}{Tabellenverzeichnis}{VIII}{}%
 \contentsline {section}{\numberline {1}Einleitung}{1}{}%
-\contentsline {subsection}{\numberline {1.1}Motivation}{1}{}%
-\contentsline {section}{\numberline {2}Grundlagen}{4}{}%
-\contentsline {subsection}{\numberline {2.1}Arbeitsumfeld}{4}{}%
-\contentsline {subsection}{\numberline {2.2}Begriffliche Grundlagen}{4}{}%
-\contentsline {subsubsection}{\numberline {2.2.1}BPMN}{4}{}%
-\contentsline {section}{\numberline {3}Ist- und Problemanalyse}{5}{}%
-\contentsline {section}{\numberline {4}Lösungskonzept}{6}{}%
-\contentsline {section}{\numberline {5}Fazit}{7}{}%
+\contentsline {subsection}{\numberline {1.1}Kontext und Relevanz des Themas}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Ziel der Arbeit}{1}{}%
+\contentsline {section}{\numberline {2}Grundlagen}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Arbeitsumfeld}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Begriffliche Grundlagen}{2}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}BPMN}{2}{}%
+\contentsline {section}{\numberline {3}Ist- und Problemanalyse}{3}{}%
+\contentsline {section}{\numberline {4}Optimierung des Systems}{4}{}%
+\contentsline {section}{\numberline {5}Fazit}{5}{}%
 \contentsline {section}{Quellenverzeichnis}{IX}{}%
 \contentsline {section}{Anhang}{X}{}%
