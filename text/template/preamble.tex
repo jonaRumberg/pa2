@@ -35,6 +35,15 @@
 % \usepackage{carlito}
 % \setmainfont{carlito}
 
+
+\usepackage{tikz}
+\usepackage{tikz-3dplot}
+\usetikzlibrary{decorations.markings}
+\tikzset{->-/.style={decoration={% https://tex.stackexchange.com/a/39282/194703
+  markings,
+  mark=at position #1 with {\arrow{>}}},postaction={decorate}},
+  ->-/.default=0.5}
+
 % Fußzeile und Kopfzeile
 \usepackage{fancyhdr}
 \renewcommand{\headrulewidth}{0pt}

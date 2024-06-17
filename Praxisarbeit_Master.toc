@@ -9,12 +9,12 @@
 \contentsline {section}{\numberline {1}Einleitung}{1}{}%
 \contentsline {subsection}{\numberline {1.1}Kontext und Relevanz des Themas}{1}{}%
 \contentsline {subsection}{\numberline {1.2}Ziel der Arbeit}{1}{}%
-\contentsline {section}{\numberline {2}Grundlagen}{2}{}%
-\contentsline {subsection}{\numberline {2.1}Arbeitsumfeld}{2}{}%
-\contentsline {subsection}{\numberline {2.2}Begriffliche Grundlagen}{2}{}%
-\contentsline {subsubsection}{\numberline {2.2.1}BPMN}{2}{}%
-\contentsline {section}{\numberline {3}Ist- und Problemanalyse}{3}{}%
-\contentsline {section}{\numberline {4}Optimierung des Systems}{4}{}%
-\contentsline {section}{\numberline {5}Fazit}{5}{}%
+\contentsline {section}{\numberline {2}Theoretischer Hintergrund}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Maschinelles Lernen}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Neuronale Netze}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Word Embeddings}{4}{}%
+\contentsline {section}{\numberline {3}Ist- und Problemanalyse}{8}{}%
+\contentsline {section}{\numberline {4}Optimierung des Systems}{9}{}%
+\contentsline {section}{\numberline {5}Fazit}{10}{}%
 \contentsline {section}{Quellenverzeichnis}{IX}{}%
 \contentsline {section}{Anhang}{X}{}%
