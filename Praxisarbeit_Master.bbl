@@ -16,5 +16,231 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{bishop_2006}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f092f589860326a712a3322c4b6cc6b7}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=f4944aaaa62d5609ead3825b91496ea1}{%
+           family={Kleinberg},
+           familyi={K\bibinitperiod}}}%
+        {{hash=cee1f8b4aeca3bec04d07579da8446f6}{%
+           family={Schölkopf},
+           familyi={S\bibinitperiod}}}%
+        {{hash=6ea1e24d60afddf388b06f8243c45b70}{%
+           family={Jordan},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f092f589860326a712a3322c4b6cc6b7}
+      \strng{fullhash}{f092f589860326a712a3322c4b6cc6b7}
+      \strng{fullhashraw}{f092f589860326a712a3322c4b6cc6b7}
+      \strng{bibnamehash}{f092f589860326a712a3322c4b6cc6b7}
+      \strng{authorbibnamehash}{f092f589860326a712a3322c4b6cc6b7}
+      \strng{authornamehash}{f092f589860326a712a3322c4b6cc6b7}
+      \strng{authorfullhash}{f092f589860326a712a3322c4b6cc6b7}
+      \strng{authorfullhashraw}{f092f589860326a712a3322c4b6cc6b7}
+      \strng{editorbibnamehash}{236940b101a9a88954522e63584a7e49}
+      \strng{editornamehash}{236940b101a9a88954522e63584a7e49}
+      \strng{editorfullhash}{236940b101a9a88954522e63584a7e49}
+      \strng{editorfullhashraw}{236940b101a9a88954522e63584a7e49}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pattern Recoginition and Machine Learning}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+      \endverb
+    \endentry
+    \entry{davies_2015}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48f427e0352f9d97eb37585a65f73622}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{48f427e0352f9d97eb37585a65f73622}
+      \strng{fullhash}{48f427e0352f9d97eb37585a65f73622}
+      \strng{fullhashraw}{48f427e0352f9d97eb37585a65f73622}
+      \strng{bibnamehash}{48f427e0352f9d97eb37585a65f73622}
+      \strng{authorbibnamehash}{48f427e0352f9d97eb37585a65f73622}
+      \strng{authornamehash}{48f427e0352f9d97eb37585a65f73622}
+      \strng{authorfullhash}{48f427e0352f9d97eb37585a65f73622}
+      \strng{authorfullhashraw}{48f427e0352f9d97eb37585a65f73622}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{www.english-corpora.org}
+      \field{title}{English-Corpora: Wikipedia}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.english-corpora.org/wiki
+      \endverb
+      \verb{url}
+      \verb https://www.english-corpora.org/wiki
+      \endverb
+    \endentry
+    \entry{jurafsky_martin_2020}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bd33d7a70284b5ead9c7985cb5c9929c}{%
+           family={Jurafsky},
+           familyi={J\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9a9b23864bfb154d68897e7817cedf0}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8a24a4a884cc78038552a0852b5b239d}
+      \strng{fullhash}{8a24a4a884cc78038552a0852b5b239d}
+      \strng{fullhashraw}{8a24a4a884cc78038552a0852b5b239d}
+      \strng{bibnamehash}{8a24a4a884cc78038552a0852b5b239d}
+      \strng{authorbibnamehash}{8a24a4a884cc78038552a0852b5b239d}
+      \strng{authornamehash}{8a24a4a884cc78038552a0852b5b239d}
+      \strng{authorfullhash}{8a24a4a884cc78038552a0852b5b239d}
+      \strng{authorfullhashraw}{8a24a4a884cc78038552a0852b5b239d}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{draft}
+      \field{note}{draft}
+      \field{title}{Speech and Language Processing An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition Third Edition}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
+      \endverb
+      \verb{url}
+      \verb https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
+      \endverb
+    \endentry
+    \entry{mikolov_chen_corrado_dean_2013}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a2d359b12ca2fadf0b40136a73f021bb}{%
+           family={Mikolov},
+           familyi={M\bibinitperiod},
+           given={Tomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee3f7d7b96add98106db907e189d6c13}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d11e6f2a0d0a1183b2cf62996525afc}{%
+           family={Corrado},
+           familyi={C\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4aecfb0cc2e1e3b7899129fa2a94e2b8}{%
+           family={Dean},
+           familyi={D\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4849f6d57e38d9b9846cfb360e45131}
+      \strng{fullhash}{f24c60896b6daa69474b40efb61f4e88}
+      \strng{fullhashraw}{f24c60896b6daa69474b40efb61f4e88}
+      \strng{bibnamehash}{d4849f6d57e38d9b9846cfb360e45131}
+      \strng{authorbibnamehash}{d4849f6d57e38d9b9846cfb360e45131}
+      \strng{authornamehash}{d4849f6d57e38d9b9846cfb360e45131}
+      \strng{authorfullhash}{f24c60896b6daa69474b40efb61f4e88}
+      \strng{authorfullhashraw}{f24c60896b6daa69474b40efb61f4e88}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Efficient Estimation of Word Representations in Vector Space}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://arxiv.org/pdf/1301.3781
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/pdf/1301.3781
+      \endverb
+    \endentry
+    \entry{RUMELHART19731}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=55cd5380bb5b15032a6d5a2015f56e3f}{%
+           family={Rumelhart},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima E},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=525beec1aa1bd42694a2f35416573792}{%
+           family={Abrahamson},
+           familyi={A\bibinitperiod},
+           given={Adele\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8157464110fce4401b4ae571775f9c52}
+      \strng{fullhash}{8157464110fce4401b4ae571775f9c52}
+      \strng{fullhashraw}{8157464110fce4401b4ae571775f9c52}
+      \strng{bibnamehash}{8157464110fce4401b4ae571775f9c52}
+      \strng{authorbibnamehash}{8157464110fce4401b4ae571775f9c52}
+      \strng{authornamehash}{8157464110fce4401b4ae571775f9c52}
+      \strng{authorfullhash}{8157464110fce4401b4ae571775f9c52}
+      \strng{authorfullhashraw}{8157464110fce4401b4ae571775f9c52}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A theory of analogical reasoning is proposed in which the elements of a set of concepts, e.g., animals, are represented as points in a multidimensional Euclidean space. Four elements A,B,C,D, are in an analogical relationship A:B::C:D if the vector distance from A to B is the same as that from C to D. Given three elements A,B,C, an ideal solution point I for A:B::C:? exists. In a problem A:B::C:D1, …, Di, …, Dn, the probability of choosing Di as the best solution is a monotonic decreasing function of the absolute distance of Di from I. A stronger decision rule incorporating a negative exponential function in Luce's choice rule is also proposed. Both the strong and weak versions of the theory were supported in two experiments where Ss rank-ordered the alternatives in problems A:B::C:D1,D2, D3D4. In a third experiment the theory was applied and further tested in teaching new concepts by analogy.}
+      \field{issn}{0010-0285}
+      \field{journaltitle}{Cognitive Psychology}
+      \field{number}{1}
+      \field{title}{A model for analogical reasoning}
+      \field{volume}{5}
+      \field{year}{1973}
+      \field{pages}{1\bibrangedash 28}
+      \range{pages}{28}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0010-0285(73)90023-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0010028573900236
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0010028573900236
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

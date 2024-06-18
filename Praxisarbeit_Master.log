@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.6.17)  17 JUN 2024 14:51
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.6.17)  18 JUN 2024 09:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -896,40 +896,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-[4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 48.
+
 Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
 [5] [6]) [7] (text/chapter3.tex) [8] (text/chapter4.tex) [9] (text/chapter5.tex) [10] (text/template/references.tex
 
-Package biblatex Warning: Type 'book' not found on input line 4.
-
-
-LaTeX Warning: Empty bibliography on input line 4.
-
-
 Package biblatex Warning: Type 'incollection' not found on input line 7.
 
 
 LaTeX Warning: Empty bibliography on input line 7.
-
-
-Package biblatex Warning: Type 'article' not found on input line 10.
-
-
-LaTeX Warning: Empty bibliography on input line 10.
-
-
-Package biblatex Warning: Type 'online' not found on input line 13.
-
-
-LaTeX Warning: Empty bibliography on input line 13.
 
 
 Package biblatex Warning: Type 'interview' not found on input line 16.
@@ -955,12 +941,12 @@ Package logreq Info: Writing requests to 'Praxisarbeit_Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27250 strings out of 409554
- 597183 string characters out of 5771574
- 1935148 words of memory out of 5000000
- 48987 multiletter control sequences out of 15000+600000
- 561807 words of font info for 59 fonts, out of 8000000 for 9000
+ 27512 strings out of 409554
+ 602888 string characters out of 5771574
+ 1936148 words of memory out of 5000000
+ 49243 multiletter control sequences out of 15000+600000
+ 561831 words of font info for 62 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
- 89i,11n,96p,1736b,3991s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,12n,96p,2103b,5579s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Praxisarbeit_Master.xdv (21 pages, 139180 bytes).
+Output written on Praxisarbeit_Master.xdv (21 pages, 158320 bytes).
