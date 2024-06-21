@@ -13,8 +13,9 @@
 \contentsline {subsection}{\numberline {2.1}Maschinelles Lernen}{3}{}%
 \contentsline {subsection}{\numberline {2.2}Neuronale Netze}{3}{}%
 \contentsline {subsection}{\numberline {2.3}Word Embeddings}{4}{}%
-\contentsline {section}{\numberline {3}Ist- und Problemanalyse}{8}{}%
-\contentsline {section}{\numberline {4}Optimierung des Systems}{9}{}%
-\contentsline {section}{\numberline {5}Fazit}{10}{}%
+\contentsline {subsection}{\numberline {2.4}Text Embeddings und die Transformer Architektur}{8}{}%
+\contentsline {section}{\numberline {3}Ist- und Problemanalyse}{12}{}%
+\contentsline {section}{\numberline {4}Optimierung des Systems}{13}{}%
+\contentsline {section}{\numberline {5}Fazit}{14}{}%
 \contentsline {section}{Quellenverzeichnis}{IX}{}%
 \contentsline {section}{Anhang}{X}{}%
