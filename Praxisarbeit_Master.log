@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.6.17)  21 JUN 2024 15:28
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.6.17)  25 JUN 2024 14:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -898,7 +898,7 @@ Package polyglossia Info: Option: German, spelling=new.
 \tf@toc=\write5
 \openout5 = `Praxisarbeit_Master.toc'.
 
- [5] (text/acronym.tex) [6] (Praxisarbeit_Master.lof
+ [5] [6] (text/acronym.tex) [7] (Praxisarbeit_Master.lof
 LaTeX Info: Redefining \rmfamily on input line 1.
 LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
@@ -908,11 +908,17 @@ LaTeX Info: Redefining \ttfamily on input line 2.
 LaTeX Info: Redefining \rmfamily on input line 4.
 LaTeX Info: Redefining \sffamily on input line 4.
 LaTeX Info: Redefining \ttfamily on input line 4.
+LaTeX Info: Redefining \rmfamily on input line 6.
+LaTeX Info: Redefining \sffamily on input line 6.
+LaTeX Info: Redefining \ttfamily on input line 6.
+LaTeX Info: Redefining \rmfamily on input line 8.
+LaTeX Info: Redefining \sffamily on input line 8.
+LaTeX Info: Redefining \ttfamily on input line 8.
 )
 \tf@lof=\write6
 \openout6 = `Praxisarbeit_Master.lof'.
 
- [7] (Praxisarbeit_Master.lot
+ [8] (Praxisarbeit_Master.lot
 LaTeX Info: Redefining \rmfamily on input line 1.
 LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
@@ -922,11 +928,17 @@ LaTeX Info: Redefining \ttfamily on input line 3.
 LaTeX Info: Redefining \rmfamily on input line 4.
 LaTeX Info: Redefining \sffamily on input line 4.
 LaTeX Info: Redefining \ttfamily on input line 4.
+LaTeX Info: Redefining \rmfamily on input line 5.
+LaTeX Info: Redefining \sffamily on input line 5.
+LaTeX Info: Redefining \ttfamily on input line 5.
+LaTeX Info: Redefining \rmfamily on input line 6.
+LaTeX Info: Redefining \sffamily on input line 6.
+LaTeX Info: Redefining \ttfamily on input line 6.
 )
 \tf@lot=\write7
 \openout7 = `Praxisarbeit_Master.lot'.
 
- [8] (text/chapter1.tex [1
+ [9] (text/chapter1.tex [1
 
 ]) [2] (text/chapter2.tex [3]
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
@@ -943,6 +955,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
+[5]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 48.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -952,7 +965,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
-[5] [6]
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
@@ -969,17 +982,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
 File: images/Transformer-Architektur.png Graphic file (type bmp)
 <images/Transformer-Architektur.png>
-
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
-[8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+[9]
+File: images/Self Attention.png Graphic file (type bmp)
+<images/Self Attention.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-[10]) [11] (text/chapter3.tex) [12] (text/chapter4.tex) [13] (text/chapter5.tex) [14] (text/template/references.tex
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+File: images/Similarity Search.png Graphic file (type bmp)
+<images/Similarity Search.png>
+[12]
+Overfull \hbox (4.42868pt too wide) in paragraph at lines 92--93
+\TU/lmr/m/n/12 in der für jeden Artikel des englischsprachigen Wikipedia-Corpus ein Text-Embedding
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+[14]) [15] (text/chapter3.tex) [16] (text/chapter4.tex) [17] (text/chapter5.tex) [18] (text/template/references.tex
 
 Package biblatex Warning: Type 'incollection' not found on input line 7.
 
@@ -998,9 +1036,9 @@ Package biblatex Warning: Type 'unpublished' not found on input line 19.
 
 LaTeX Warning: Empty bibliography on input line 19.
 
-) [9
+) [10
 
-] (text/appendix.tex) [10] (Praxisarbeit_Master.aux)
+] (text/appendix.tex) [11] (Praxisarbeit_Master.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -1010,12 +1048,12 @@ Package logreq Info: Writing requests to 'Praxisarbeit_Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29346 strings out of 409554
- 638762 string characters out of 5771574
- 1936148 words of memory out of 5000000
- 51048 multiletter control sequences out of 15000+600000
+ 29399 strings out of 409554
+ 640017 string characters out of 5771574
+ 1934148 words of memory out of 5000000
+ 51099 multiletter control sequences out of 15000+600000
  561831 words of font info for 62 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  89i,12n,96p,2103b,5595s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Praxisarbeit_Master.xdv (25 pages, 223172 bytes).
+Output written on Praxisarbeit_Master.xdv (30 pages, 312440 bytes).

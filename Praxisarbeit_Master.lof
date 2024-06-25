@@ -3,3 +3,7 @@
 \contentsline {figure}{\numberline {1}{\ignorespaces Visualisierung der in Tabelle \ref {Vector Semantics Word-Word Vec Table} berechneten Vektoren in dreidimsionalem Raum}}{6}{}%
 \setforeignlanguage {german}
 \contentsline {figure}{\numberline {2}{\ignorespaces Die Architektur eines Transformers für die Anwendung als Sprachmodell \blx@tocontentsinit {0}\parencite {jurafsky_martin_2020}}}{9}{}%
+\setforeignlanguage {german}
+\contentsline {figure}{\numberline {3}{\ignorespaces Darstellung der Funktionsweise von Self Attention in einem Transformer}}{10}{}%
+\setforeignlanguage {german}
+\contentsline {figure}{\numberline {4}{\ignorespaces Darstellung der Architektur einer Ähnlichkeitssuche}}{13}{}%

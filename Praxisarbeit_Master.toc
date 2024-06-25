@@ -3,9 +3,9 @@
 \contentsline {section}{Sperrvermerk}{III}{}%
 \contentsline {section}{Kurzfassung}{IV}{}%
 \contentsline {section}{Inhaltsverzeichnis}{V}{}%
-\contentsline {section}{Abkürzungsverzeichnis}{VI}{}%
-\contentsline {section}{Abbildungsverzeichnis}{VII}{}%
-\contentsline {section}{Tabellenverzeichnis}{VIII}{}%
+\contentsline {section}{Abkürzungsverzeichnis}{VII}{}%
+\contentsline {section}{Abbildungsverzeichnis}{VIII}{}%
+\contentsline {section}{Tabellenverzeichnis}{IX}{}%
 \contentsline {section}{\numberline {1}Einleitung}{1}{}%
 \contentsline {subsection}{\numberline {1.1}Kontext und Relevanz des Themas}{1}{}%
 \contentsline {subsection}{\numberline {1.2}Ziel der Arbeit}{1}{}%
@@ -14,8 +14,10 @@
 \contentsline {subsection}{\numberline {2.2}Neuronale Netze}{3}{}%
 \contentsline {subsection}{\numberline {2.3}Word Embeddings}{4}{}%
 \contentsline {subsection}{\numberline {2.4}Text Embeddings und die Transformer Architektur}{8}{}%
-\contentsline {section}{\numberline {3}Ist- und Problemanalyse}{12}{}%
-\contentsline {section}{\numberline {4}Optimierung des Systems}{13}{}%
-\contentsline {section}{\numberline {5}Fazit}{14}{}%
-\contentsline {section}{Quellenverzeichnis}{IX}{}%
-\contentsline {section}{Anhang}{X}{}%
+\contentsline {subsection}{\numberline {2.5}Ähnlichkeitssuche}{12}{}%
+\contentsline {subsection}{\numberline {2.6}Retrieval Augmented Generation}{14}{}%
+\contentsline {section}{\numberline {3}Beschreibung des Systems}{16}{}%
+\contentsline {section}{\numberline {4}Optimierung des Systems}{17}{}%
+\contentsline {section}{\numberline {5}Fazit}{18}{}%
+\contentsline {section}{Quellenverzeichnis}{X}{}%
+\contentsline {section}{Anhang}{XI}{}%

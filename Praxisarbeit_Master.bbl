@@ -142,6 +142,110 @@
       \verb https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
       \endverb
     \endentry
+    \entry{DBLP:journals/corr/abs-2005-11401}{article}{}{}
+      \name{author}{12}{}{%
+        {{un=0,uniquepart=base,hash=b0c0480dc8f7de0419703556091fd929}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Patrick\bibnamedelimb S.\bibnamedelimi H.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79978685fd7b37606022b06c0f6419a1}{%
+           family={Perez},
+           familyi={P\bibinitperiod},
+           given={Ethan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d205faec67355b6e0ec49f82a492324c}{%
+           family={Piktus},
+           familyi={P\bibinitperiod},
+           given={Aleksandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1c32989a78998fe3c03c981d0da2dc7}{%
+           family={Petroni},
+           familyi={P\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b24392ebfb2c0a35979fc689c389c649}{%
+           family={Karpukhin},
+           familyi={K\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78a420900f50a8470ad085fb05231bf6}{%
+           family={Goyal},
+           familyi={G\bibinitperiod},
+           given={Naman},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4eadcf26f55e11fe4be834b52d9b7fdf}{%
+           family={Küttler},
+           familyi={K\bibinitperiod},
+           given={Heinrich},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c97f53fdeeb04c28de19e3324cb4bc0a}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4d56d3d370b3afd4ad2ebf985fbd3f8}{%
+           family={Yih},
+           familyi={Y\bibinitperiod},
+           given={Wen{-}tau},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3ff4029884ead9928954ea33714192c}{%
+           family={Rocktäschel},
+           familyi={R\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cd024b217f3f2f8126e253b8c84d24d}{%
+           family={Riedel},
+           familyi={R\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca01c762f4a52dd8a8548508f8d727c9}{%
+           family={Kiela},
+           familyi={K\bibinitperiod},
+           given={Douwe},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{954a4d32c0a516a5283df183738f0f70}
+      \strng{fullhash}{a1ac78699c0f813a2175bdbbc2a9f569}
+      \strng{fullhashraw}{a1ac78699c0f813a2175bdbbc2a9f569}
+      \strng{bibnamehash}{954a4d32c0a516a5283df183738f0f70}
+      \strng{authorbibnamehash}{954a4d32c0a516a5283df183738f0f70}
+      \strng{authornamehash}{954a4d32c0a516a5283df183738f0f70}
+      \strng{authorfullhash}{a1ac78699c0f813a2175bdbbc2a9f569}
+      \strng{authorfullhashraw}{a1ac78699c0f813a2175bdbbc2a9f569}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{Retrieval-Augmented Generation for Knowledge-Intensive {NLP} Tasks}
+      \field{volume}{abs/2005.11401}
+      \field{year}{2020}
+      \verb{eprint}
+      \verb 2005.11401
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2005.11401
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2005.11401
+      \endverb
+    \endentry
     \entry{mikolov_chen_corrado_dean_2013}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=a2d359b12ca2fadf0b40136a73f021bb}{%
