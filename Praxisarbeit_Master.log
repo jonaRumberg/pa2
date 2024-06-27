@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.6.17)  25 JUN 2024 14:20
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.6.17)  26 JUN 2024 09:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1043,17 +1043,26 @@ LaTeX Warning: Empty bibliography on input line 19.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Praxisarbeit_Master
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'Praxisarbeit_Master.run.xml'.
 \openout1 = `Praxisarbeit_Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29399 strings out of 409554
- 640017 string characters out of 5771574
+ 29406 strings out of 409554
+ 640202 string characters out of 5771574
  1934148 words of memory out of 5000000
- 51099 multiletter control sequences out of 15000+600000
+ 51106 multiletter control sequences out of 15000+600000
  561831 words of font info for 62 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
- 89i,12n,96p,2103b,5595s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,12n,96p,2209b,5595s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Praxisarbeit_Master.xdv (30 pages, 312440 bytes).
+Output written on Praxisarbeit_Master.xdv (30 pages, 313948 bytes).
