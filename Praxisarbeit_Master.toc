@@ -14,10 +14,10 @@
 \contentsline {subsection}{\numberline {2.2}Neuronale Netze}{3}{}%
 \contentsline {subsection}{\numberline {2.3}Word Embeddings}{4}{}%
 \contentsline {subsection}{\numberline {2.4}Text Embeddings und die Transformer Architektur}{8}{}%
-\contentsline {subsection}{\numberline {2.5}Ähnlichkeitssuche}{12}{}%
-\contentsline {subsection}{\numberline {2.6}Retrieval Augmented Generation}{14}{}%
-\contentsline {section}{\numberline {3}Beschreibung des Systems}{16}{}%
-\contentsline {section}{\numberline {4}Optimierung des Systems}{17}{}%
-\contentsline {section}{\numberline {5}Fazit}{18}{}%
+\contentsline {subsection}{\numberline {2.5}Ähnlichkeitssuche}{14}{}%
+\contentsline {subsection}{\numberline {2.6}Retrieval Augmented Generation}{16}{}%
+\contentsline {section}{\numberline {3}Beschreibung des Systems}{18}{}%
+\contentsline {section}{\numberline {4}Optimierung des Systems}{19}{}%
+\contentsline {section}{\numberline {5}Fazit}{20}{}%
 \contentsline {section}{Quellenverzeichnis}{X}{}%
 \contentsline {section}{Anhang}{XI}{}%

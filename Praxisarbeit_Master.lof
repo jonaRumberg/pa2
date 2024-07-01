@@ -6,4 +6,8 @@
 \setforeignlanguage {german}
 \contentsline {figure}{\numberline {3}{\ignorespaces Darstellung der Funktionsweise von Self Attention in einem Transformer}}{10}{}%
 \setforeignlanguage {german}
-\contentsline {figure}{\numberline {4}{\ignorespaces Darstellung der Architektur einer Ähnlichkeitssuche}}{13}{}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Annotierter Ausschnitt aus den Embeddings aller Artikel der englischsprachigen Wikipedia}}{12}{}%
+\setforeignlanguage {german}
+\contentsline {figure}{\numberline {5}{\ignorespaces Annotierte Darstellung der Embeddings aller Artikel der englischsprachigen Wikipedia}}{13}{}%
+\setforeignlanguage {german}
+\contentsline {figure}{\numberline {6}{\ignorespaces Darstellung der Architektur einer Ähnlichkeitssuche}}{15}{}%
